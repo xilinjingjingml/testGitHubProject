@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "ebda7d06-2d8f-4046-96e7-1ac5f26e7be4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "brownGirl_1": {
+      "ver": "1.0.3",
+      "uuid": "02ce5c82-b690-4d52-ada3-897d68884664",
+      "rawTextureUuid": "ebda7d06-2d8f-4046-96e7-1ac5f26e7be4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 69,
+      "height": 172,
+      "rawWidth": 69,
+      "rawHeight": 172,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "1b07c08e-b6d1-431e-a3ed-4677afc54970",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "blondGril_1": {
+      "ver": "1.0.3",
+      "uuid": "ec9dbcfa-8b4e-40f4-80bf-573d87e65897",
+      "rawTextureUuid": "1b07c08e-b6d1-431e-a3ed-4677afc54970",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 67,
+      "height": 172,
+      "rawWidth": 67,
+      "rawHeight": 172,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

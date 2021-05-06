@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "2d8b9f86-ad19-4e3a-a3b1-e9ab1b6300d3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "SblondGril_1": {
+      "ver": "1.0.3",
+      "uuid": "57e41eeb-a45e-4838-a6e2-f77a59c030fd",
+      "rawTextureUuid": "2d8b9f86-ad19-4e3a-a3b1-e9ab1b6300d3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 172,
+      "rawWidth": 64,
+      "rawHeight": 172,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

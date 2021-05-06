@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "c65ba111-f31f-45b1-9eec-46ff261152d8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "SblackBoy_0": {
+      "ver": "1.0.3",
+      "uuid": "58f64863-c6f0-4d88-8147-f8896e380287",
+      "rawTextureUuid": "c65ba111-f31f-45b1-9eec-46ff261152d8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 66,
+      "height": 172,
+      "rawWidth": 66,
+      "rawHeight": 172,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

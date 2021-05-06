@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "e63f8b28-7d02-46a7-96cd-34dc58428fa7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ScapBoy_1": {
+      "ver": "1.0.3",
+      "uuid": "427fb06b-2d13-41e2-8428-774a661c422e",
+      "rawTextureUuid": "e63f8b28-7d02-46a7-96cd-34dc58428fa7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 77,
+      "height": 169,
+      "rawWidth": 77,
+      "rawHeight": 169,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

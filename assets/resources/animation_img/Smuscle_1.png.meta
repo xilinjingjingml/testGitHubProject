@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "d57b29d3-52db-499f-a47a-437ed941cf0a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Smuscle_1": {
+      "ver": "1.0.3",
+      "uuid": "f5321efe-3b92-4021-ab16-439cff601171",
+      "rawTextureUuid": "d57b29d3-52db-499f-a47a-437ed941cf0a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 125,
+      "height": 172,
+      "rawWidth": 125,
+      "rawHeight": 172,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

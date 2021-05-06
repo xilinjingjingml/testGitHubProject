@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "crocodile",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "aab1435e-bc46-4b58-8592-e780cae4f917"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "bce1a136-6c48-4dad-8075-1ee1708f2137"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "aab1435e-bc46-4b58-8592-e780cae4f917"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
